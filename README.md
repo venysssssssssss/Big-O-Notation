@@ -2,4 +2,5 @@
 
 ### 1.
 
-### 2.
+### 2. Complexidade de Tempo: 
+
