@@ -1,5 +1,8 @@
 # Big-O-Notation
 
+## Definição e signinificado
+
+
 ### 1.
 
 ### 2. Complexidade de Tempo: 
