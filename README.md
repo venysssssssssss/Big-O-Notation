@@ -15,3 +15,7 @@
 - 4 - Cúbico (O(n³)): um algoritmo com complexidade cúbica leva tempo proporcional ao cubo do tamanho da entrada.
 
 - 5 - Exponencial (O(2^n)): um algoritmo com complexidade exponencial leva tempo exponencial ao tamanho da entrada.
+
+### A notação Big O é uma ferramenta importante para engenheiros de software, pois ajuda a escolher os algoritmos mais eficientes para uma determinada tarefa. Os algoritmos com complexidade mais baixa são mais eficientes e podem lidar com grandes quantidades de dados mais rapidamente.
+
+
