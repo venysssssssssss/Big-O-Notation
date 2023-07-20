@@ -6,12 +6,12 @@
 
 ### Existem cinco tipos principais de complexidade Big O:
 
-### 1.
+- 1. Constante (O(1)): um algoritmo com complexidade constante leva o mesmo tempo para processar qualquer entrada.
 
-### 2. Complexidade de Tempo: 
+- 2. Linear (O(n)): um algoritmo com complexidade linear leva tempo proporcional ao tamanho da entrada.
 
-### 3
+- 3. Quadrado (O(n²)): um algoritmo com complexidade quadrada leva tempo proporcional ao quadrado do tamanho da entrada.
 
-### 4
+- 4. Cúbico (O(n³)): um algoritmo com complexidade cúbica leva tempo proporcional ao cubo do tamanho da entrada.
 
-### 5
+- 5. Exponencial (O(2^n)): um algoritmo com complexidade exponencial leva tempo exponencial ao tamanho da entrada.
