@@ -6,7 +6,7 @@
 
 ### Existem cinco tipos principais de complexidade Big O:
 
-- 1 Constante (O(1)): um algoritmo com complexidade constante leva o mesmo tempo para processar qualquer entrada.
+- 1 - Constante (O(1)): um algoritmo com complexidade constante leva o mesmo tempo para processar qualquer entrada.
 
 - 2. Linear (O(n)): um algoritmo com complexidade linear leva tempo proporcional ao tamanho da entrada.
 
