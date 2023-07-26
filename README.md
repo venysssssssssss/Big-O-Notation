@@ -20,7 +20,7 @@
 - É medida em termos de número de passos necessários para processar uma entrada. O número de passos pode ser contado manualmente ou usando uma ferramenta de análise de algoritmos.
 - É usada para prever como um algoritmo se comportará com grandes quantidades de dados. Os algoritmos com complexidade mais baixa são mais eficientes e podem lidar com grandes quantidades de dados mais rapidamente.
 - -
-
+-
 - 
 
 
