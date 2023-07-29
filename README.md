@@ -19,7 +19,17 @@
 ### A notação Big O é uma ferramenta importante para engenheiros de software, pois ajuda a escolher os algoritmos mais eficientes para uma determinada tarefa. Os algoritmos com complexidade mais baixa são mais eficientes e podem lidar com grandes quantidades de dados mais rapidamente.
 - É medida em termos de número de passos necessários para processar uma entrada. O número de passos pode ser contado manualmente ou usando uma ferramenta de análise de algoritmos.
 - É usada para prever como um algoritmo se comportará com grandes quantidades de dados. Os algoritmos com complexidade mais baixa são mais eficientes e podem lidar com grandes quantidades de dados mais rapidamente.
-- 
-- 
 
+### Exemplos de algoritmos e suas complexidades Big O :
+- Busca binária : O(log n)
+- Busca linear : O(n)
+- Seleção : O(n^2)
+- Ordenação : O(n log n)
+- Multiplicação matricial : O(n^3)
+- Algoritmo de Heapsort : O(n log n)
+- Algoritmo de Heapsort : O(n log n)
+- Algoritmo de Heapsort : O(n log n)
+
+## Aplicações da notação Big O
+### A notação Big O é usada em uma variedade de aplicações, incluindo:
 
