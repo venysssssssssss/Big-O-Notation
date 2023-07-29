@@ -45,7 +45,7 @@
 - O mergesort é um algoritmo de ordenação que é baseado na estrutura de dados de lista ligada. Ele funciona dividindo a lista em duas sublistas e, em seguida, combinando as sublistas ordenadas em uma lista ordenada. O algoritmo continua fazendo isso recursivamente até que toda a lista esteja ordenada. A complexidade do mergesort é O(n log n).
 
 ## Aplicações da notação Big O
-### A notação Big O é usada em uma variedade de aplicações, incluindo:
+### É usada em uma variedade de aplicações, incluindo:
 - Ciência da computação
 - Engenharia de software
 - Engenharia de software
