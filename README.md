@@ -32,4 +32,12 @@
 
 ## Aplicações da notação Big O
 ### A notação Big O é usada em uma variedade de aplicações, incluindo:
+- Ciência da computação
+- Engenharia de software
+- Engenharia de software
+- Otimização de algoritmos
+- Projeto de banco de dados
+- Computação gráfica
+- Computação científica
 
+### A notação Big O é uma ferramenta valiosa para entender e medir a complexidade de algoritmos.
