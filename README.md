@@ -1,4 +1,5 @@
 # Big-O-Notation
+![image](https://github.com/venysssssssssss/Big-O-Notation/assets/99450704/7a9043e2-295d-44a7-bea1-258aa7a441b6)
 
 ## Definição e signinificado
 ### A notação Big O é um método para classificar a complexidade de algoritmos em relação ao tamanho da entrada. Ela é usada para comparar a eficiência de diferentes algoritmos e para prever como um algoritmo se comportará com grandes quantidades de dados.
