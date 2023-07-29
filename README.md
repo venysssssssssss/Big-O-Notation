@@ -22,7 +22,7 @@
 - É usada para prever como um algoritmo se comportará com grandes quantidades de dados. Os algoritmos com complexidade mais baixa são mais eficientes e podem lidar com grandes quantidades de dados mais rapidamente.
 
 ### Exemplos de algoritmos e suas complexidades Big O :
-- Busca binária : O(log n)
+- Busca binária : O(log n) - A busca binária é um algoritmo de busca que é usado para encontrar um elemento em uma lista ordenada. Ele começa no meio da lista e, em seguida, compara o elemento que está procurando com o elemento no meio. Se os elementos forem iguais, a busca termina. Se os elementos forem diferentes, a busca continua no lado da lista que contém o elemento que está procurando. O algoritmo continua fazendo isso até encontrar o elemento ou até que tenha verificado todos os elementos da lista. A complexidade da busca binária é O(log n), o que significa que o número de passos que o algoritmo leva é proporcional ao logaritmo do tamanho da lista.
 - Busca linear : O(n)
 - Seleção : O(n^2)
 - Ordenação : O(n log n)
