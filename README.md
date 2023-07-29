@@ -27,8 +27,8 @@
 - Ordenação : O(n log n)
 - Multiplicação matricial : O(n^3)
 - Algoritmo de Heapsort : O(n log n)
-- Algoritmo de Heapsort : O(n log n)
-- Algoritmo de Heapsort : O(n log n)
+- Algoritmo de Quicksort : O(n log n)
+- Algoritmo de Mergesort : O(n log n)
 
 ## Aplicações da notação Big O
 ### A notação Big O é usada em uma variedade de aplicações, incluindo:
